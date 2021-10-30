@@ -1,4 +1,4 @@
-window.onNextjsAppDidMount = function() {
+window.onGatsbyInitialClientRender = function() {
 /*
   reframe.js - Reframe.js: responsive iframes for embedded content
   @version v3.0.2
